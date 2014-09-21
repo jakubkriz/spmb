@@ -27,3 +27,8 @@ Usage
 # Vrací ANO nebo NE, podle toho, jestli mají tyto linky společnou
 # zastávku (místo zaslíbené C)
 ```
+
+Notes:
+------
+
+Data jsou stažené z http://www.jrbrno.cz
